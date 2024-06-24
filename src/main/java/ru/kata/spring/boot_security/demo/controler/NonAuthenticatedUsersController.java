@@ -6,11 +6,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class NonAuthenticatedUsersController {
 
-    @GetMapping("/")
+/*    @GetMapping("/")
     public String showStart() {
         return "start";
-    }
-
-
-
+    }*/
 }
